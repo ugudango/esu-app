@@ -4,11 +4,15 @@ import Home from '../views/Home.vue';
 const routes: Array<RouteRecordRaw> = [
   {
     path: '/',
+    redirect: '/esu-app/',
+  },
+  {
+    path: '/esu-app/',
     name: 'Home',
     component: Home,
   },
   {
-    path: '/about',
+    path: '/esu-app/about',
     name: 'About',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route

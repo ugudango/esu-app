@@ -4,6 +4,7 @@ import { register } from 'register-service-worker';
 
 // if (process.env.NODE_ENV === 'production') {
 register(`${process.env.BASE_URL}service-worker.js`, {
+  registrationOptions: { scope: '/esu-app/' },
   ready() {
     console.log(
       'App is being served from cache by a service worker.\n'
@@ -21,6 +22,7 @@ register(`${process.env.BASE_URL}service-worker.js`, {
   },
   updated() {
     console.log('New content is available; please refresh.');
+    window.location.reload();
   },
   offline() {
     console.log('No internet connection found. App is running in offline mode.');

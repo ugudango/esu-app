@@ -1,10 +1,26 @@
 <template>
   <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/esu-app/">Home</router-link> |
+    <router-link to="/esu-app/about/">About</router-link>
+    <div>
+      {{ path }}
+    </div>
   </div>
   <router-view/>
 </template>
+
+<script>
+import { defineComponent, computed } from 'vue';
+import { useRoute } from 'vue-router';
+
+export default defineComponent({
+  setup() {
+    const route = useRoute();
+    const path = computed(() => route.path);
+    return { path };
+  },
+});
+</script>
 
 <style lang="scss">
 #app {
