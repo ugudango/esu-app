@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/esu-app/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "af935f136cb465fa9d604848909c13b9",
+    "revision": "e1ed64e0177ddf4bcb369e8547d90b95",
     "url": "/esu-app/index.html"
   },
   {
