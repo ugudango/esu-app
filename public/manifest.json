@@ -2,6 +2,7 @@
   "name": "Engineering Summer University",
   "short_name": "ESU",
   "description": "ESU application.",
+  "start_url": "/index.html",
   "theme_color": "#ffd229",
   "background_color": "#26003b",
   "display": "standalone",
