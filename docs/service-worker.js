@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.af0b432beaa11fdac67f6daa36e91880.js"
+  "/esu-app/precache-manifest.91f63a1585392c27be6d0567844d6eb5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "esu-app"});
