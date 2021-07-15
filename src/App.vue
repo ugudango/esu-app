@@ -2,7 +2,9 @@
   <div id="nav">
     <router-link to="/esu-app/">Home</router-link> |
     <router-link to="/esu-app/about/">About</router-link>
-    <div>
+    <div
+      class="bg-red-500"
+    >
       {{ path }}
     </div>
   </div>
