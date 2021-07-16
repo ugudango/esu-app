@@ -1,0 +1,874 @@
+{
+  "people": [
+    {
+      "name": "Duma Laurian Iuian",
+      "phone": "0741744789",
+      "facebook": "https://www.facebook.com/laurian.duma.1/",
+      "group": "electro-1",
+      "volunteer": false
+    },
+    {
+      "name": "Rujac Roxana",
+      "phone": "0742882696",
+      "facebook": "https://www.facebook.com/rujac.roxana/",
+      "group": "electro-1",
+      "volunteer": false
+    },
+    {
+      "name": "Zapciroiu Tudor",
+      "phone": "0757831764",
+      "facebook": "https://www.facebook.com/tudor.zapciroiu/",
+      "group": "electro-1",
+      "volunteer": false
+    },
+    {
+      "name": "Alexa Alexandru Andrei",
+      "phone": "0760436650",
+      "facebook": "https://www.facebook.com/alexandru.alexa.790/",
+      "group": "electro-1",
+      "volunteer": false
+    },
+    {
+      "name": "Zaharia Călin-Ștefan",
+      "phone": "0742117090",
+      "facebook": "https://www.facebook.com/calin.zaharia.37",
+      "group": "electro-1",
+      "volunteer": false
+    },
+    {
+      "name": "Nicula Maria-Cristina",
+      "phone": "0771557610",
+      "facebook": "https://web.facebook.com/maria.nicula.144",
+      "group": "electro-1",
+      "volunteer": false
+    },
+    {
+      "name": "Văleanu Lucian-George",
+      "phone": "0744816907",
+      "facebook": "https://www.facebook.com/valeanu.luci/",
+      "group": "electro-1",
+      "volunteer": false
+    },
+    {
+      "name": "Cardoș Raul-Andrei",
+      "phone": "0730976971",
+      "facebook": "https://www.facebook.com/cardosandreiraul/",
+      "group": "electro-1",
+      "volunteer": false
+    },
+    {
+      "name": "Miron Marta-Florentina",
+      "phone": "0732465765",
+      "facebook": "https://www.facebook.com/marta.miron.37/",
+      "group": "electro-1",
+      "volunteer": false
+    },
+    {
+      "name": "Dincă Diana",
+      "phone": "0770965192",
+      "facebook": "https://www.facebook.com/diana.dinca.925/",
+      "group": "electro-1",
+      "volunteer": false
+    },
+    {
+      "name": "Barastean Carla Maria",
+      "phone": "0771732396",
+      "facebook": "https://www.facebook.com/carla.barastean/",
+      "group": "electro-1",
+      "volunteer": false
+    },
+    {
+      "name": "Andor Eduard",
+      "phone": "0770178246",
+      "facebook": "https://www.facebook.com/edi.andor ",
+      "group": "electro-1",
+      "volunteer": false
+    },
+    {
+      "name": "Nenu Mihai Adrian",
+      "phone": "0725122919",
+      "facebook": "https://www.facebook.com/adi.nenu.5",
+      "group": "electro-1",
+      "volunteer": false
+    },
+    {
+      "name": "Andronache Mădălina-Georgiana",
+      "phone": "0721231991",
+      "facebook": "https://www.facebook.com/madalina.andronache.50/",
+      "group": "electro-1",
+      "volunteer": false
+    },
+    {
+      "name": "Vlad Florina Niculina",
+      "phone": "0747430981",
+      "facebook": "https://www.facebook.com/florina.vlad164",
+      "group": "electro-1",
+      "volunteer": true
+    },
+    {
+      "name": "Spătăcean Giorgiana",
+      "phone": "0783054447",
+      "facebook": "https://www.facebook.com/profile.php?id=100012778248562",
+      "group": "electro-1",
+      "volunteer": true
+    },
+    {
+      "name": "Antonescu Cristina",
+      "phone": "0734247370",
+      "facebook": "https://www.facebook.com/cristina.antonescu.94",
+      "group": "electro-1",
+      "volunteer": true
+    },
+
+
+
+
+
+
+
+    {
+      "name": "Rusu Ștefan",
+      "phone": "0772274559",
+      "facebook": "https://www.facebook.com/stefan.rusu.3745/",
+      "group": "electro-2",
+      "volunteer": false
+    },
+    {
+      "name": "Bacs Dominic",
+      "phone": "0770133647",
+      "facebook": "https://www.facebook.com/dominic.bacs",
+      "group": "electro-2",
+      "volunteer": false
+    },
+    {
+      "name": "Lemnariu Alexandra",
+      "phone": "0784202550",
+      "facebook": "https://www.facebook.com/alexandra.lemnariu",
+      "group": "electro-2",
+      "volunteer": false
+    },
+    {
+      "name": "Gîrda Nora",
+      "phone": "0786023385",
+      "facebook": "https://www.facebook.com/nora.girda",
+      "group": "electro-2",
+      "volunteer": false
+    },
+    {
+      "name": "Popa Bianca",
+      "phone": "0758379062",
+      "facebook": "https://www.facebook.com/biancadaniela.popa",
+      "group": "electro-2",
+      "volunteer": false
+    },
+    {
+      "name": "Zaharia Cristea Alina",
+      "phone": "0799579979",
+      "facebook": "https://www.facebook.com/zaharia.alina13/",
+      "group": "electro-2",
+      "volunteer": false
+    },
+    {
+      "name": "Bolohan Iustin - Constantin",
+      "phone": "0757159996",
+      "facebook": "https://www.facebook.com/iustin.bolohan/",
+      "group": "electro-2",
+      "volunteer": false
+    },
+    {
+      "name": "Ghitun George Alexandru",
+      "phone": "0752031605",
+      "facebook": "https://www.facebook.com/george.ghitun/",
+      "group": "electro-2",
+      "volunteer": false
+    },
+    {
+      "name": "Anastasiu Andreea-Valentina",
+      "phone": "0757129847",
+      "facebook": "https://www.facebook.com/anastasiu.andreea.5/",
+      "group": "electro-2",
+      "volunteer": false
+    },
+    {
+      "name": "Brînzan Ioana Claudia",
+      "phone": "0727201548",
+      "facebook": "https://www.facebook.com/claudia.brinzan",
+      "group": "electro-2",
+      "volunteer": false
+    },
+    {
+      "name": "Bogdan Vlad-Mihai",
+      "phone": "0769455802",
+      "facebook": "https://www.facebook.com/vlad.bogdan.9212/",
+      "group": "electro-2",
+      "volunteer": false
+    },
+    {
+      "name": "Duțulescu Aurelia-Georgiana",
+      "phone": "0746532877",
+      "facebook": "https://www.facebook.com/relly.dutulescu",
+      "group": "electro-2",
+      "volunteer": false
+    },
+    {
+      "name": "Mesaros Radu-Andrei",
+      "phone": "0743033717",
+      "facebook": "https://www.facebook.com/radu.messa/",
+      "group": "electro-2",
+      "volunteer": false
+    },
+    {
+      "name": "Petrila Claudiu Niculae",
+      "phone": "0742056282",
+      "facebook": "https://www.facebook.com/claudiu943",
+      "group": "electro-2",
+      "volunteer": false
+    },
+    {
+      "name": "Talpău Andreea",
+      "phone": "0751965235",
+      "facebook": "https://www.facebook.com/Andreeatalpau23",
+      "group": "electro-2",
+      "volunteer": true
+    },
+    {
+      "name": "Dora Cristian",
+      "phone": "0725211783",
+      "facebook": "https://www.facebook.com/dora.cristian.12",
+      "group": "electro-2",
+      "volunteer": true
+    },
+    {
+      "name": "Popescu Ionuț",
+      "phone": "0734090028",
+      "facebook": "https://www.facebook.com/ionut.popescu.338658",
+      "group": "electro-2",
+      "volunteer": true
+    },
+
+
+
+
+
+
+    {
+      "name": "Michnea Ștefania Maria",
+      "phone": "0749156648",
+      "facebook": "https://www.facebook.com/stefania.michnea",
+      "group": "electro-3",
+      "volunteer": false
+    },
+    {
+      "name": "Maxim Andrei-Vasile",
+      "phone": "0756465679",
+      "facebook": "https://www.facebook.com/andrei.maxim.148/",
+      "group": "electro-3",
+      "volunteer": false
+    },
+    {
+      "name": "Dan Ovidiu",
+      "phone": "0742394708",
+      "facebook": "https://www.facebook.com/ovidiu.dan.1420/",
+      "group": "electro-3",
+      "volunteer": false
+    },
+    {
+      "name": "Arimia Andreea-Ștefania",
+      "phone": "0762385168",
+      "facebook": "https://www.facebook.com/andreea.arimia",
+      "group": "electro-3",
+      "volunteer": false
+    },
+    {
+      "name": "Tosa David",
+      "phone": "0743586470",
+      "facebook": "https://www.facebook.com/david.tosa",
+      "group": "electro-3",
+      "volunteer": false
+    },
+    {
+      "name": "Robu Raluca Ioana",
+      "phone": "0755268425",
+      "facebook": "https://www.facebook.com/rralutz",
+      "group": "electro-3",
+      "volunteer": false
+    },
+    {
+      "name": "Crisan Daria Andrada",
+      "phone": "0787701181",
+      "facebook": "https://www.facebook.com/dariaandrada.crisan",
+      "group": "electro-3",
+      "volunteer": false
+    },
+    {
+      "name": "Raicu Bianca Elena",
+      "phone": "0755255477",
+      "facebook": "https://www.facebook.com/biancaelena.raicu.1",
+      "group": "electro-3",
+      "volunteer": false
+    },
+    {
+      "name": "Karasz Benjamin",
+      "phone": "0748013370",
+      "facebook": "https://www.facebook.com/profile.php?id=100009085147968",
+      "group": "electro-3",
+      "volunteer": false
+    },
+    {
+      "name": "Sera Adina",
+      "phone": "0727676938",
+      "facebook": "https://web.facebook.com/unicorn.curcubeu",
+      "group": "electro-3",
+      "volunteer": false
+    },
+    {
+      "name": "Mândroiu Jasmine",
+      "phone": "0757360977",
+      "facebook": "https://www.facebook.com/jasmine.maria08",
+      "group": "electro-3",
+      "volunteer": false
+    },
+    {
+      "name": "Bîrchi Sorin Ioan Alexandru",
+      "phone": "0763365062",
+      "facebook": "https://www.facebook.com/profile.php?id=100008440656358",
+      "group": "electro-3",
+      "volunteer": false
+    },
+    {
+      "name": "Roznovan Bogdan-Valentin",
+      "phone": "0756597960",
+      "facebook": "https://www.facebook.com/bogdan.roznovan",
+      "group": "electro-3",
+      "volunteer": false
+    },
+    {
+      "name": "Manolache Andrei-Ștefan",
+      "phone": "0755947882",
+      "facebook": "https://www.facebook.com/profile.php?id=100013587607319",
+      "group": "electro-3",
+      "volunteer": false
+    },
+    {
+      "name": "Țigăuan Claudia",
+      "phone": "0752567840",
+      "facebook": "https://www.facebook.com/claudia.tigauan",
+      "group": "electro-3",
+      "volunteer": true
+    },
+    {
+      "name": "Vălcăuan Adina",
+      "phone": "0753613419",
+      "facebook": "https://www.facebook.com/profile.php?id=100012926765624",
+      "group": "electro-3",
+      "volunteer": true
+    },
+    {
+      "name": "Ailincă Laura",
+      "phone": "0727744314",
+      "facebook": "https://www.facebook.com/laura.ailinca",
+      "group": "electro-3",
+      "volunteer": true
+    },
+
+
+
+
+
+
+    {
+      "name": "Porcilescu Denisa Raluca",
+      "phone": "0752285652",
+      "facebook": "https://www.facebook.com/denisa.porcilescu",
+      "group": "constructii-1",
+      "volunteer": false
+    },
+    {
+      "name": "Olariu Lenuta Maria",
+      "phone": "0722281693",
+      "facebook": "https://www.facebook.com/olariu.lenuta.1",
+      "group": "constructii-1",
+      "volunteer": false
+    },
+    {
+      "name": "Catan Aurora",
+      "phone": "0746465102",
+      "facebook": "https://www.facebook.com/aurora.catan",
+      "group": "constructii-1",
+      "volunteer": false
+    },
+    {
+      "name": "Matei Andreea",
+      "phone": "0748524046",
+      "facebook": "https://www.facebook.com/Andreea.Matei.1075",
+      "group": "constructii-1",
+      "volunteer": false
+    },
+    {
+      "name": "Brumar Bianca",
+      "phone": "0732789249",
+      "facebook": "https://www.facebook.com/BiancaLisaB",
+      "group": "constructii-1",
+      "volunteer": false
+    },
+    {
+      "name": "Stefanescu Julia",
+      "phone": "0740454307",
+      "facebook": "https://www.facebook.com/julia.stefanescu.3",
+      "group": "constructii-1",
+      "volunteer": false
+    },
+    {
+      "name": "Goia Ana",
+      "phone": "0743481325",
+      "facebook": "https://www.facebook.com/goiaana16/",
+      "group": "constructii-1",
+      "volunteer": false
+    },
+    {
+      "name": "Sabău Alexia Maria",
+      "phone": "0752400712",
+      "facebook": "https://www.facebook.com/alexiamaria.sabau",
+      "group": "constructii-1",
+      "volunteer": false
+    },
+    {
+      "name": "Cîrciu Delia Maria",
+      "phone": "0720658133",
+      "facebook": "https://web.facebook.com/delia.circiu/",
+      "group": "constructii-1",
+      "volunteer": false
+    },
+    {
+      "name": "Larion Maria-Iustina",
+      "phone": "0757705258",
+      "facebook": "https://www.facebook.com/profile.php?id=100008704538494",
+      "group": "constructii-1",
+      "volunteer": false
+    },
+    {
+      "name": "Alupei Georgiana",
+      "phone": "0746678726",
+      "facebook": "https://www.facebook.com/georgiana.alupei",
+      "group": "constructii-1",
+      "volunteer": false
+    },
+    {
+      "name": "Mirea Carla Cristina",
+      "phone": "0773944698",
+      "facebook": "https://www.facebook.com/profile.php?id=100008989546094",
+      "group": "constructii-1",
+      "volunteer": false
+    },
+    {
+      "name": "State Flavia",
+      "phone": "0743030964",
+      "facebook": "https://www.facebook.com/flavia.state/",
+      "group": "constructii-1",
+      "volunteer": false
+    },
+    {
+      "name": "Lates Cornelia Maria",
+      "phone": "0743033992",
+      "facebook": "https://www.facebook.com/maria.lates.3/",
+      "group": "constructii-1",
+      "volunteer": false
+    },
+    {
+      "name": "Cubleșan Elena",
+      "phone": "0768621752",
+      "facebook": "https://www.facebook.com/profile.php?id=100007187086533",
+      "group": "constructii-1",
+      "volunteer": true
+    },
+    {
+      "name": "Nagy Alex-Ludovic",
+      "phone": "0743646492",
+      "facebook": "https://www.facebook.com/alex.nagy.927",
+      "group": "constructii-1",
+      "volunteer": true
+    },
+    {
+      "name": "Chiriac Daria-Georgiana",
+      "phone": "0728247290",
+      "facebook": "https://www.facebook.com/profile.php?id=100006879706200",
+      "group": "constructii-1",
+      "volunteer": true
+    },
+
+
+
+
+
+
+    {
+      "name": "Hanc Adriana Maria",
+      "phone": "0736406697",
+      "facebook": "https://www.facebook.com/HancAdriana",
+      "group": "constructii-2",
+      "volunteer": false
+    },
+    {
+      "name": "Popescu Alice Nicoleta",
+      "phone": "0763884040",
+      "facebook": "https://www.facebook.com/alice.popescu.9083/",
+      "group": "constructii-2",
+      "volunteer": false
+    },
+    {
+      "name": "Rochnean Adelin Antonio",
+      "phone": "0753772880",
+      "facebook": "https://www.facebook.com/antonio.a.rochnean",
+      "group": "constructii-2",
+      "volunteer": false
+    },
+    {
+      "name": "Fleșer Ana",
+      "phone": "0729569578",
+      "facebook": "https://www.facebook.com/ana.fleser.73",
+      "group": "constructii-2",
+      "volunteer": false
+    },
+    {
+      "name": "Horvat Bianca Anamaria",
+      "phone": "0721865754",
+      "facebook": "https://www.facebook.com/bianca.horvat.54",
+      "group": "constructii-2",
+      "volunteer": false
+    },
+    {
+      "name": "Brumar Cristian",
+      "phone": "0734346152",
+      "facebook": "https://www.facebook.com/cristian.andrei.75641",
+      "group": "constructii-2",
+      "volunteer": false
+    },
+    {
+      "name": "Muresan Vlad Stefan",
+      "phone": "0742337579",
+      "facebook": "https://www.facebook.com/profile.php?id=100008467454064",
+      "group": "constructii-2",
+      "volunteer": false
+    },
+    {
+      "name": "Negrescu Mario",
+      "phone": "0799935585",
+      "facebook": "https://www.facebook.com/mario16nma/",
+      "group": "constructii-2",
+      "volunteer": false
+    },
+    {
+      "name": "Conache Rares Ionut",
+      "phone": "0733791902",
+      "facebook": "https://www.facebook.com/raresionut999/",
+      "group": "constructii-2",
+      "volunteer": false
+    },
+    {
+      "name": "Culea Ioana Antonia",
+      "phone": "0736744668",
+      "facebook": "https://www.facebook.com/antonia.culea.1",
+      "group": "constructii-2",
+      "volunteer": false
+    },
+    {
+      "name": "Grumăzescu Ecaterina-Elisabeta",
+      "phone": "0726558752",
+      "facebook": "https://www.facebook.com/ina.grum",
+      "group": "constructii-2",
+      "volunteer": false
+    },
+    {
+      "name": "Belényesi David",
+      "phone": "0760357097",
+      "facebook": "https://www.facebook.com/david.belenyesi.73",
+      "group": "constructii-2",
+      "volunteer": false
+    },
+    {
+      "name": "Tugui Andrada",
+      "phone": "0730269737",
+      "facebook": "https://www.facebook.com/andrada.tugui.3",
+      "group": "constructii-2",
+      "volunteer": false
+    },
+    {
+      "name": "Bartha Emeric-Arthur",
+      "phone": "0740652906",
+      "facebook": "https://www.facebook.com/emi.bartha/",
+      "group": "constructii-2",
+      "volunteer": false
+    },
+    {
+      "name": "Bucsi Krisztian",
+      "phone": "0787741419",
+      "facebook": "https://www.facebook.com/krisztian.bucsi.1",
+      "group": "constructii-2",
+      "volunteer": true
+    },
+    {
+      "name": "Ciolte Irina",
+      "phone": "0754583594",
+      "facebook": "https://www.facebook.com/irina.ale.19",
+      "group": "constructii-2",
+      "volunteer": true
+    },
+    {
+      "name": "Huc Stefan-Ilie ",
+      "phone": "0758883616",
+      "facebook": "https://www.facebook.com/huc.stefanilie.3",
+      "group": "constructii-2",
+      "volunteer": true
+    },
+
+
+
+
+
+
+    {
+      "name": "Ungurean Florin-Silviu",
+      "phone": "0742670051",
+      "facebook": "https://www.facebook.com/profile.php?id=100009218425877",
+      "group": "mecanica-1",
+      "volunteer": false
+    },
+    {
+      "name": "Făgărași Daria Ștefania",
+      "phone": "0746184385",
+      "facebook": "https://www.facebook.com/larisa.daria.9",
+      "group": "mecanica-1",
+      "volunteer": false
+    },
+    {
+      "name": "Duprii Ana-Maria",
+      "phone": "0746800289",
+      "facebook": "https://www.facebook.com/profile.php?id=100007749435919",
+      "group": "mecanica-1",
+      "volunteer": false
+    },
+    {
+      "name": "Nedelea Cezara Andreea",
+      "phone": "0740518177",
+      "facebook": "https://www.facebook.com/cezaraandreea.stoica",
+      "group": "mecanica-1",
+      "volunteer": false
+    },
+    {
+      "name": "Tivadar Razvan Petru",
+      "phone": "758875718",
+      "facebook": "https://www.facebook.com/profile.php?id=100004926465921",
+      "group": "mecanica-1",
+      "volunteer": false
+    },
+    {
+      "name": "Vonethe Flaviu",
+      "phone": "753080034",
+      "facebook": "https://www.facebook.com/anroln.schveizernegen/",
+      "group": "mecanica-1",
+      "volunteer": false
+    },
+    {
+      "name": "Nechiti Andrei-Alexandru",
+      "phone": "0743853685",
+      "facebook": "https://www.facebook.com/andreialexandru.nechiti/",
+      "group": "mecanica-1",
+      "volunteer": false
+    },
+    {
+      "name": "Pop Iulian",
+      "phone": "0757828185",
+      "facebook": "https://m.facebook.com/iulian.pop.73?ref=bookmarks",
+      "group": "mecanica-1",
+      "volunteer": false
+    },
+    {
+      "name": "Barabás Amalia Cătălina",
+      "phone": "0751665441",
+      "facebook": "https://l.instagram.com/?u=https%3A%2F%2Fm.facebook.com%2Famalia.barabas.3&e=ATN6FVTbgk_lAGYn2k2LRlQBsUrI19dwzu2MprcKAuMnA-r9INVmeu3x7KxZFASRjOG-PWF1DdqTCJwJZcqvGA&s=1",
+      "group": "mecanica-1",
+      "volunteer": false
+    },
+    {
+      "name": "Țonea Alexandra-Ioana",
+      "phone": "0735290233",
+      "facebook": "https://www.facebook.com/ale575441/",
+      "group": "mecanica-1",
+      "volunteer": false
+    },
+    {
+      "name": "Ivana Stefania",
+      "phone": "0726529876",
+      "facebook": "https://www.facebook.com/irinel.ivana",
+      "group": "mecanica-1",
+      "volunteer": false
+    },
+    {
+      "name": "Rusu Amalia Mădălina",
+      "phone": "0755472591",
+      "facebook": "https://www.facebook.com/profile.php?id=100006231556172",
+      "group": "mecanica-1",
+      "volunteer": false
+    },
+    {
+      "name": "Berevoianu Dinu George",
+      "phone": "0764660101",
+      "facebook": "https://www.facebook.com/dinu.berevoianu",
+      "group": "mecanica-1",
+      "volunteer": false
+    },
+    {
+      "name": "Rus Alexandru Mihai",
+      "phone": "0756835643",
+      "facebook": "https://www.facebook.com/alex.rus.967806/",
+      "group": "mecanica-1",
+      "volunteer": false
+    },
+    {
+      "name": "Roznovan Andrei-Cosmin",
+      "phone": "0747171785",
+      "facebook": "https://www.facebook.com/andreii.roznovan",
+      "group": "mecanica-1",
+      "volunteer": true
+    },
+    {
+      "name": "Samartinean Gianina",
+      "phone": "0741358683",
+      "facebook": "https://www.facebook.com/gianina.samartinean",
+      "group": "mecanica-1",
+      "volunteer": true
+    },
+    {
+      "name": "Kulcsar Iulia-Natalia",
+      "phone": "0741530092",
+      "facebook": "https://www.facebook.com/iulianatalia.kulcsar",
+      "group": "mecanica-1",
+      "volunteer": true
+    },
+
+
+
+
+
+
+    {
+      "name": "Stanus George",
+      "phone": "0754610614",
+      "facebook": "https://www.facebook.com/george.stanus.9",
+      "group": "mecanica-2",
+      "volunteer": false
+    },
+    {
+      "name": "Balanescu Robert Alexandru",
+      "phone": "0751050454",
+      "facebook": "https://www.facebook.com/profile.php?id=100008677181007",
+      "group": "mecanica-2",
+      "volunteer": false
+    },
+    {
+      "name": "Demian Razvan",
+      "phone": "0720783972",
+      "facebook": "https://www.facebook.com/razvi.demian.1",
+      "group": "mecanica-2",
+      "volunteer": false
+    },
+    {
+      "name": "Demeter Larisa",
+      "phone": "0757901288",
+      "facebook": "https://www.facebook.com/larisa.demeter1/",
+      "group": "mecanica-2",
+      "volunteer": false
+    },
+    {
+      "name": "Alexoaie Antonio",
+      "phone": "0751500456",
+      "facebook": "https://www.facebook.com/amoasei.antonio",
+      "group": "mecanica-2",
+      "volunteer": false
+    },
+    {
+      "name": "Costa Laurentiu Raul",
+      "phone": "0799775925",
+      "facebook": "https://www.facebook.com/raul.costa.1441/",
+      "group": "mecanica-2",
+      "volunteer": false
+    },
+    {
+      "name": "Manciu Tudor",
+      "phone": "0742015110",
+      "facebook": "https://www.facebook.com/profile.php?id=100006747767350",
+      "group": "mecanica-2",
+      "volunteer": false
+    },
+    {
+      "name": "Moșneagu Cristiana-Ioana",
+      "phone": "0752616701",
+      "facebook": "https://www.facebook.com/cristiana.mosneagu.3",
+      "group": "mecanica-2",
+      "volunteer": false
+    },
+    {
+      "name": "Oprea Andreea-Iuliana",
+      "phone": "0770401204",
+      "facebook": "https://www.facebook.com/andreea.oprea.7758",
+      "group": "mecanica-2",
+      "volunteer": false
+    },
+    {
+      "name": "Lung Ana-Otilia",
+      "phone": "0751488078",
+      "facebook": "https://www.facebook.com/anaotilia.lung",
+      "group": "mecanica-2",
+      "volunteer": false
+    },
+    {
+      "name": "Iuhas Alexandru",
+      "phone": "0758912621",
+      "facebook": "https://www.facebook.com/profile.php?id=100024237680637",
+      "group": "mecanica-2",
+      "volunteer": false
+    },
+    {
+      "name": "Boghean Sorina-Ioana",
+      "phone": "0757261293",
+      "facebook": "https://www.facebook.com/sorina.boghean.5",
+      "group": "mecanica-2",
+      "volunteer": false
+    },
+    {
+      "name": "Turculet Stefan",
+      "phone": "0736861448",
+      "facebook": "https://www.instagram.com/stefan_turculet/",
+      "group": "mecanica-2",
+      "volunteer": false
+    },
+    {
+      "name": "Oprișor Paul Cristian",
+      "phone": "0756219930",
+      "facebook": "",
+      "group": "mecanica-2",
+      "volunteer": false
+    },
+    {
+      "name": "Covaliu Alexandra",
+      "phone": "0734062526",
+      "facebook": "https://www.facebook.com/aly.smiley.7",
+      "group": "mecanica-2",
+      "volunteer": true
+    },
+    {
+      "name": "Nicolae Alexandra-Mihaela",
+      "phone": "0744842986",
+      "facebook": "https://www.facebook.com/alexandra.nicolae.526875",
+      "group": "mecanica-2",
+      "volunteer": true
+    },
+    {
+      "name": "Vaduva Denisa",
+      "phone": "0771043432",
+      "facebook": "https://www.facebook.com/Nekounicorn666",
+      "group": "mecanica-2",
+      "volunteer": true
+    }
+  ]
+}
