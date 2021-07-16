@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <HelloWorld msg="Welcome to the ESU app!"/>
+    Hello ESU!
   </div>
 </template>
 

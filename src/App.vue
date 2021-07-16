@@ -1,21 +1,15 @@
 <template>
-  <div id="nav">
-    <router-link to="/esu-app/">Home</router-link> |
-    <router-link to="/esu-app/about/">About</router-link>
-    <div
-      class="bg-red-500"
-    >
-      {{ path }}
-    </div>
-  </div>
+  <navbar></navbar>
   <router-view/>
 </template>
 
 <script>
 import { defineComponent, computed } from 'vue';
 import { useRoute } from 'vue-router';
+import Navbar from './components/Navbar.vue';
 
 export default defineComponent({
+  components: { Navbar },
   setup() {
     const route = useRoute();
     const path = computed(() => route.path);

@@ -1,4 +1,5 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router';
+import Contact from '../views/Contact.vue';
 import Home from '../views/Home.vue';
 
 const routes: Array<RouteRecordRaw> = [
@@ -10,6 +11,11 @@ const routes: Array<RouteRecordRaw> = [
     path: '/esu-app/',
     name: 'Home',
     component: Home,
+  },
+  {
+    path: '/esu-app/contact',
+    name: 'Contact',
+    component: Contact,
   },
   {
     path: '/esu-app/about',
