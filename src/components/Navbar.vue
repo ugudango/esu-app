@@ -76,9 +76,9 @@ import { BellIcon, MenuIcon, XIcon } from '@heroicons/vue/outline';
 
 const navigation = [
   { name: 'Home', href: '#', current: true },
-  { name: 'Contact', href: '#', current: false },
-  { name: 'Calendar', href: '#', current: false },
-  { name: 'Projects', href: '#', current: false },
+  // { name: 'Contact', href: '#', current: false },
+  // { name: 'Calendar', href: '#', current: false },
+  // { name: 'Projects', href: '#', current: false },
 ];
 
 export default {

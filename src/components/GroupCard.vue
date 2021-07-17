@@ -1,7 +1,8 @@
 <template>
 <!--eslint-disable max-len-->
-  <div class="w-32 rounded-lg flex flex-col items-center py-4"
+  <div class="w-32 rounded-lg flex flex-col items-center py-4 cursor-pointer"
     :class="[`bg-gradient-to-${direction}`, `from-${startColor}`, `to-${stopColor}`]"
+    @click="$router.push({ name: 'Group Page', params: { groupId: name}})"
   >
     <icon
       svg-color="white"
@@ -10,14 +11,15 @@
       {{ icon }}
     </icon>
 
-    <span class="font-raleway font-bold text-gray-50 mt-4">
-      {{ name }}
+    <span class="font-raleway font-bold text-gray-50 mt-4 select-none">
+      {{ capitalCase(name) }}
     </span>
   </div>
 <!--eslint-enable max-len-->
 </template>
 
 <script lang="ts">
+import { capitalCase } from 'change-case-all';
 import { defineComponent } from 'vue';
 import { mdiFlashCircle } from '@mdi/js';
 import Icon from './util/Icon.vue';
@@ -49,7 +51,7 @@ export default defineComponent({
     },
   },
   setup() {
-    return { mdiFlashCircle };
+    return { mdiFlashCircle, capitalCase };
   },
 });
 </script>

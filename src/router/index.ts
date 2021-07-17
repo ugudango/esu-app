@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router';
 import Contact from '../views/Contact.vue';
 import Home from '../views/Home.vue';
+import GroupPage from '../views/GroupPage.vue';
 
 const routes: Array<RouteRecordRaw> = [
   {
@@ -16,6 +17,11 @@ const routes: Array<RouteRecordRaw> = [
     path: '/esu-app/contact',
     name: 'Contact',
     component: Contact,
+  },
+  {
+    path: '/esu-app/group/:groupId',
+    name: 'Group Page',
+    component: GroupPage,
   },
   {
     path: '/esu-app/about',

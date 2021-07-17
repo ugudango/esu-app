@@ -1,5 +1,12 @@
 module.exports = {
-  purge: ['./public/index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
+  purge: {
+    content: ['./public/index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
+    safelist: [
+      /^bg-gradient-to-/,
+      /^from-/,
+      /^to-/,
+    ],
+  },
   darkMode: false, // or 'media' or 'class'
   theme: {
     fontFamily: {
