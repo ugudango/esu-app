@@ -4,8 +4,8 @@ const path = require('path');
 
 module.exports = {
   lintOnSave: false,
-  publicPath:
-    process.env.NODE_ENV === 'production' ? '/esu-app/' : '/',
+  publicPath: '/esu-app/',
+  // process.env.NODE_ENV === 'production' ? '/esu-app/' : '/',
   pwa: {
     workboxOptions: {
       skipWaiting: true,

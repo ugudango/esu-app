@@ -7,7 +7,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "start_url": "/esu-app/",
-  "scope": "/esu-app/",
+  "scope": "https://ugudango.github.io/esu-app/",
   "icons": [
       {
         "src": "/esu-app/img/windows10/SmallTile.scale-100.png",

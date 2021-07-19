@@ -2,11 +2,18 @@
 <!--eslint-disable max-len-->
   <div
     class="w-full flex flex-col bg-gray-200 rounded-lg p-4 items-start"
+    :class="{'border-2 border-green-400 bg-green-100': volunteer }"
   >
     <div
       class="text-xl font-raleway font-bold"
     >
       {{ name }}
+      <span
+        v-if="volunteer"
+        class="font-normal italic text-sm"
+      >
+       - Volunteer
+      </span>
     </div>
     <div class="flex flex-row items-center mt-2">
       <icon svgColor="gray">mdiPhone</icon>
@@ -14,7 +21,7 @@
     </div>
     <div class="flex flex-row items-center">
       <icon svgColor="gray">mdiFacebook</icon>
-      <a class="text-blue-500 ml-2 mt-1" :href="fb" > Facebook/IG </a>
+      <a target="_blank" class="text-blue-500 ml-2 mt-1" :href="fb" > Facebook/IG </a>
     </div>
   </div>
 <!--eslint-enable max-len-->
@@ -34,6 +41,7 @@ export default defineComponent({
     name: String,
     phone: String,
     fb: String,
+    volunteer: Boolean,
   },
   setup() {
     return {};
