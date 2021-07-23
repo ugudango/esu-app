@@ -5,7 +5,7 @@
     :class="{'border-2 border-green-400 bg-green-100': volunteer }"
   >
     <div
-      class="text-xl font-raleway font-bold"
+      class="text-xl font-raleway font-bold text-left"
     >
       {{ name }}
       <span

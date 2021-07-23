@@ -870,5 +870,297 @@
       "group": "mecanica-2",
       "volunteer": true
     }
-  ]
+  ],
+  "schedule": {
+    "23 Jul 2021": [
+      {
+        "time": "7:30",
+        "name": "trezirea"
+      },
+      {
+        "time": "9:00",
+        "name": "The Color Run"
+      },
+      {
+        "time": "13:00",
+        "name": "prânz"
+      },
+      {
+        "time": "15:00",
+        "name": "Complex Leul"
+      },
+      {
+        "time": "18:00",
+        "name": "cină"
+      },
+      {
+        "time": "20:30",
+        "name": "probă de dans"
+      },
+      {
+        "time": "02:00",
+        "name": "stingerea"
+      }
+    ],
+    "24 Jul 2021": [
+      {
+        "time": "10:00",
+        "name": "trezirea"
+      },
+      {
+        "time": "11:00",
+        "name": "înviorare"
+      },
+      {
+        "time": "13:00",
+        "name": "prânz"
+      },
+      {
+        "time": "15:00",
+        "name": "Piscină + Escape Room"
+      },
+      {
+        "time": "18:00",
+        "name": "cină"
+      },
+      {
+        "time": "20:30",
+        "name": "activități cu grupa"
+      },
+      {
+        "time": "02:00",
+        "name": "stingerea"
+      }
+    ],
+    "25 Jul 2021": [
+      {
+        "time": "08:00",
+        "name": "trezirea"
+      },
+      {
+        "time": "09:00",
+        "name": "energizer"
+      },
+      {
+        "time": "10:00",
+        "name": "workshop-uri de dezvoltare personală"
+      },
+      {
+        "time": "13:00",
+        "name": "prânz"
+      },
+      {
+        "time": "15:00",
+        "name": "Treasure Hunt"
+      },
+      {
+        "time": "19:30",
+        "name": "cină + seară de folk"
+      },
+      {
+        "time": "01:00",
+        "name": "sosire cămin"
+      },
+      {
+        "time": "02:00",
+        "name": "stingerea"
+      }
+    ],
+    "26 Jul 2021": [
+      {
+        "time": "07:00",
+        "name": "trezirea"
+      },
+      {
+        "time": "09:00",
+        "name": "activitate profesională"
+      },
+      {
+        "time": "13:00",
+        "name": "prânz"
+      },
+      {
+        "time": "15:00",
+        "name": "Grădina Botanică"
+      },
+      {
+        "time": "18:00",
+        "name": "cină"
+      },
+      {
+        "time": "20:30",
+        "name": "pregătire party"
+      },
+      {
+        "time": "22:00",
+        "name": "Party Tematic #3"
+      },
+      {
+        "time": "02:00",
+        "name": "sosire cămin"
+      },
+      {
+        "time": "03:00",
+        "name": "stingerea"
+      }
+    ],
+    "27 Jul 2021": [
+      {
+        "time": "08:00",
+        "name": "trezirea"
+      },
+      {
+        "time": "09:00",
+        "name": "Quiz"
+      },
+      {
+        "time": "13:00",
+        "name": "prânz"
+      },
+      {
+        "time": "14:00",
+        "name": "20 de Provocări"
+      },
+      {
+        "time": "18:00",
+        "name": "cină"
+      },
+      {
+        "time": "20:00",
+        "name": "pregătire sesiune"
+      },
+      {
+        "time": "20:30",
+        "name": "timp liber"
+      },
+      {
+        "time": "02:00",
+        "name": "stingerea"
+      }
+    ],
+    "28 Jul 2021": [
+      {
+        "time": "08:00",
+        "name": "trezirea"
+      },
+      {
+        "time": "09:00",
+        "name": "sesiune"
+      },
+      {
+        "time": "11:00",
+        "name": "timp liber"
+      },
+      {
+        "time": "13:00",
+        "name": "prânz"
+      },
+      {
+        "time": "15:00",
+        "name": "Feedback pe grupe"
+      },
+      {
+        "time": "17:00",
+        "name": "Feedback pe case"
+      },
+      {
+        "time": "18:00",
+        "name": "cină"
+      },
+      {
+        "time": "19:00",
+        "name": "Jocuri sportive"
+      },
+      {
+        "time": "01:00",
+        "name": "sosire cămin"
+      },
+      {
+        "time": "02:00",
+        "name": "stingerea"
+      }
+    ],
+    "29 Jul 2021": [
+      {
+        "time": "08:00",
+        "name": "trezirea"
+      },
+      {
+        "time": "09:00",
+        "name": "Olimpiada Trăzniților 2"
+      },
+      {
+        "time": "13:00",
+        "name": "prânz"
+      },
+      {
+        "time": "14:00",
+        "name": "Activitate"
+      },
+      {
+        "time": "18:00",
+        "name": "cină"
+      },
+      {
+        "time": "20:30",
+        "name": "pregătire party"
+      },
+      {
+        "time": "22:00",
+        "name": "Party Tematic #4"
+      },
+      {
+        "time": "04:00",
+        "name": "sosire cămin"
+      },
+      {
+        "time": "01:00",
+        "name": "sosire cămin"
+      },
+      {
+        "time": "02:00",
+        "name": "stingerea"
+      }
+    ],
+    "30 Jul 2021": [
+      {
+        "time": "07:30",
+        "name": "trezirea"
+      },
+      {
+        "time": "09:00",
+        "name": "Festivitatea de încheiere"
+      },
+      {
+        "time": "13:00",
+        "name": "prânz"
+      },
+      {
+        "time": "14:30",
+        "name": "apocalipsa finală"
+      },
+      {
+        "time": "17:00",
+        "name": "timp liber"
+      },
+      {
+        "time": "18:00",
+        "name": "cină"
+      },
+      {
+        "time": "20:30",
+        "name": "Goodbye Night"
+      }
+    ],
+    "31 Jul 2021": [
+      {
+        "time": "toată ziua",
+        "name": "adio participanți :("
+      },
+      {
+        "time": "13:00",
+        "name": "prânz"
+      }
+    ]
+  }
 }

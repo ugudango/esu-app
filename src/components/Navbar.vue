@@ -18,7 +18,13 @@
           </div>
           <div class="hidden sm:block sm:ml-6">
             <div class="flex space-x-4">
-              <a v-for="item in navigation" :key="item.name" @click="$router.push({ name: item.name })" :class="[item.current ? 'bg-yellow-400 text-white' : 'text-yellow-500 hover:bg-yellow-200 hover:text-white', 'px-3 py-2 rounded-md text-sm font-medium']" :aria-current="item.current ? 'page' : undefined">
+              <a v-for="item in navigation"
+              :key="item.name"
+              @click="$router.push({ name: item.name })"
+              :class="[item.href === route ? 'bg-yellow-400 text-white' : 'text-yellow-500 hover:bg-yellow-200 hover:text-white', 'px-3 py-2 rounded-md text-sm font-medium']"
+              :aria-current="item.current ? 'page' : undefined"
+              class="cursor-pointer select-none"
+              >
                 {{ item.name }}
               </a>
             </div>
@@ -60,7 +66,12 @@
 
     <DisclosurePanel class="sm:hidden">
       <div class="px-2 pt-2 pb-3 space-y-1">
-        <a v-for="item in navigation" :key="item.name" @click.prevent="$router.push({ name: item.name })" :class="[item.current ? 'bg-yellow-400 text-white' : 'text-yellow-500 hover:bg-yellow-200 hover:text-white', 'block px-3 py-2 rounded-md text-base font-medium']" :aria-current="item.current ? 'page' : undefined">{{ item.name }}</a>
+        <a v-for="item in navigation"
+        :key="item.name" @click.prevent="$router.push({ name: item.name })"
+        :class="[item.href === route ? 'bg-yellow-400 text-white' : 'text-yellow-500 hover:bg-yellow-200 hover:text-white', 'block px-3 py-2 rounded-md text-base font-medium']"
+        :aria-current="item.current ? 'page' : undefined"
+        class="cursor-pointer select-none"
+        >{{ item.name }}</a>
       </div>
     </DisclosurePanel>
   </Disclosure>
@@ -68,15 +79,15 @@
 </template>
 
 <script>
-import { ref } from 'vue';
+import { ref, watch } from 'vue';
 import {
   Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuItem, MenuItems,
 } from '@headlessui/vue';
 import { BellIcon, MenuIcon, XIcon } from '@heroicons/vue/outline';
 
 const navigation = [
-  { name: 'Home', href: '#', current: true },
-  // { name: 'Contact', href: '#', current: false },
+  { name: 'Home', href: '/esu-app/' },
+  { name: 'Schedule', href: '/esu-app/schedule' },
   // { name: 'Calendar', href: '#', current: false },
   // { name: 'Projects', href: '#', current: false },
 ];
@@ -94,8 +105,18 @@ export default {
     MenuIcon,
     XIcon,
   },
-  setup() {
+  props: {
+    route: {
+      type: String,
+      required: true,
+    },
+  },
+  setup(props) {
     const open = ref(false);
+
+    watch(() => {
+      console.log(props.route);
+    });
 
     return {
       navigation,

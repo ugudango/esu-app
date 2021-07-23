@@ -1,10 +1,12 @@
 <template>
-  <navbar></navbar>
+  <navbar
+    :route="path"
+  ></navbar>
   <router-view/>
 </template>
 
 <script>
-import { defineComponent, computed } from 'vue';
+import { defineComponent, computed, watch } from 'vue';
 import { useRoute } from 'vue-router';
 import Navbar from './components/Navbar.vue';
 

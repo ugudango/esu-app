@@ -2,6 +2,7 @@ import { createRouter, createWebHashHistory, RouteRecordRaw } from 'vue-router';
 import Contact from '../views/Contact.vue';
 import Home from '../views/Home.vue';
 import GroupPage from '../views/GroupPage.vue';
+import Schedule from '../views/Schedule.vue';
 
 const routes: Array<RouteRecordRaw> = [
   {
@@ -12,6 +13,11 @@ const routes: Array<RouteRecordRaw> = [
     path: '/esu-app/',
     name: 'Home',
     component: Home,
+  },
+  {
+    path: '/esu-app/schedule',
+    name: 'Schedule',
+    component: Schedule,
   },
   {
     path: '/esu-app/contact',
