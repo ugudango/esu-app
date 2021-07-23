@@ -18,7 +18,6 @@
 </template>
 
 <script lang="ts">
-import { capitalCase } from 'change-case-all';
 import { defineComponent } from 'vue';
 import { useRoute } from 'vue-router';
 import PersonCard from '@/components/PersonCard.vue';

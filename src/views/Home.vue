@@ -37,11 +37,11 @@ export default defineComponent({
     function getCustomization(group: string): [string, string, string] {
       switch (group.trim().split('-')[0]) {
         case 'electro':
-          return ['mdiFlashCircle', 'yellow-300', 'yellow-500'];
+          return ['mdiFlashCircle', 'electro-lighter', 'electro'];
         case 'constructii':
-          return ['mdiWall', 'red-400', 'red-600'];
+          return ['mdiWall', 'constructii-lighter', 'constructii'];
         case 'mecanica':
-          return ['mdiCog', 'indigo-300', 'indigo-600'];
+          return ['mdiCog', 'mecanica-lighter', 'mecanica'];
         default:
           return ['mdiAccountMultiple', 'gray-200', 'gray-600'];
       }
