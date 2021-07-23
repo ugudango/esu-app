@@ -1,0 +1,2 @@
+(self["webpackChunkesu_app"]=self["webpackChunkesu_app"]||[]).push([[443],{9211:function(u,n,e){"use strict";e.r(n),e.d(n,{default:function(){return p}});var a=e(6252),s={class:"about"},t=(0,a.Wm)("h1",null,"This is an about page",-1);function r(u,n){return(0,a.wg)(),(0,a.j4)("div",s,[t])}const c={};c.render=r;var p=c}}]);
+//# sourceMappingURL=about-legacy.d5ef1413.js.map

@@ -1,0 +1,2 @@
+(self["webpackChunkesu_app"]=self["webpackChunkesu_app"]||[]).push([[443],{211:function(n,u,e){"use strict";e.r(u),e.d(u,{default:function(){return p}});var s=e(252);const a={class:"about"},t=(0,s.Wm)("h1",null,"This is an about page",-1);function r(n,u){return(0,s.wg)(),(0,s.j4)("div",a,[t])}const c={};c.render=r;var p=c}}]);
+//# sourceMappingURL=about.17e2cb29.js.map
